@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "28146702569",
+    "project_id": "zobaze-e18f4",
+    "storage_bucket": "zobaze-e18f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28146702569:android:58d7f9db2b614515d37878",
+        "android_client_info": {
+          "package_name": "com.zobazee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28146702569-ini3eldq88jo9ks9pj2so412h9jvmn7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zobazee",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "28146702569-2bq1jqkt59o6ubhj7k385ohh68v2qojt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWl9B9QiJYSdl7kNQ-BNEKTHLVlTiDD44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28146702569-2bq1jqkt59o6ubhj7k385ohh68v2qojt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
